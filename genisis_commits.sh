@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir -p faked_repo && cd faked_repo
+mkdir -p gen_repo && cd gen_repo
 git init
 git config user.name 'Ivan Ghost'
 git config user.email 'info@thirdromemarket.com'
